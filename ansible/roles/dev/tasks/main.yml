@@ -48,11 +48,14 @@
       - gcc
       - iotop
       - jnettop
+      - kobo
       - koji
       - httpie
       - mock
       - plantuml
+      - gofer
       - python-django-bash-completion
+      - python-future
       - python-gofer-qpid
       - python-ipdb
       - python-qpid
